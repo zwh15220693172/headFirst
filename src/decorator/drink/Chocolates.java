@@ -1,4 +1,4 @@
-package decorator.mixed;
+package decorator.drink;
 
 public class Chocolates {
 }
