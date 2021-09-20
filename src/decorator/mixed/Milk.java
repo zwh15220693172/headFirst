@@ -1,4 +1,4 @@
 package decorator.mixed;
 
-public class SugarCoffee {
+public class Milk {
 }

@@ -1,0 +1,4 @@
+package flyWeight;
+
+public class FlyWeightFactory {
+}

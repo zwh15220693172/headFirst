@@ -1,4 +1,4 @@
 package adapter.interfaceAdapter;
 
-public class InterfaceAdapterImpl {
+public class AbstractAdapter {
 }

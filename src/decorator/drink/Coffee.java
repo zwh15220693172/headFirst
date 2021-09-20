@@ -1,4 +1,4 @@
 package decorator.drink;
 
-public class Milk {
+public class Coffee {
 }
