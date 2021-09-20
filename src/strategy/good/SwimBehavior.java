@@ -1,4 +1,5 @@
 package strategy.good;
 
-public class SwimBehavior {
+public interface SwimBehavior {
+    void swim();
 }

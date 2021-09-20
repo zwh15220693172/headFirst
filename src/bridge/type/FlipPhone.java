@@ -2,14 +2,14 @@ package bridge.type;
 
 import bridge.brand.Brand;
 
-public class FoldPhone extends MobileType{
+public class FlipPhone extends MobileType{
 
-    public FoldPhone(Brand brand) {
+    public FlipPhone(Brand brand) {
         super(brand);
     }
 
     @Override
     public String display() {
-        return "折叠";
+        return "翻盖";
     }
 }

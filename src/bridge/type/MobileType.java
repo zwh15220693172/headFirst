@@ -1,4 +1,6 @@
-package bridge;
+package bridge.type;
+
+import bridge.brand.Brand;
 
 /**
  * 这就是桥，使用抽象类代替继承的关系

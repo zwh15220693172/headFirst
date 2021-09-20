@@ -1,6 +1,10 @@
-package prototype.clone;
+package prototype.stream;
 
-public class Human {
+import java.io.Serializable;
+
+public class Human implements Serializable {
+    public static final long serialVersionUID = 2L;
+
     private String name;
 
     public String getName() {

@@ -1,4 +1,11 @@
 package decorator.mixed;
 
-public class Milk {
+import decorator.Component;
+
+public class Milk extends Mixed {
+    public Milk(Component component) {
+        super(component);
+        setDes("牛奶");
+        setCost(5);
+    }
 }

@@ -1,4 +1,4 @@
-package bridge;
+package bridge.brand;
 
 public interface Brand {
     String open();
